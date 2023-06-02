@@ -89,7 +89,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/inve3.avif");
+    ,url("Media/inve3.avif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -145,7 +145,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/cultivo.jpg");
+    ,url("Media/cultivo.jpg");
 
 }
 
@@ -155,7 +155,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/aceite5.jpg");
+    ,url("Media/aceite5.jpg");
 }
 
 .carta:nth-child(3){
@@ -164,7 +164,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/gomitashd.webp");
+    ,url("Media/gomitashd.webp");
 
 }
 
@@ -255,7 +255,7 @@ footer .container{
     }
 
     #conocenos-ya .img-container{
-        background-image: url("media/canna3.avif");
+        background-image: url("Media/canna3.avif");
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -290,7 +290,7 @@ footer .container{
     }
 
     #caracteristicas{
-        background-image: url(media/imagen1.webp);
+        background-image: url(Media/imagen1.webp);
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
